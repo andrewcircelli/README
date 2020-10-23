@@ -1,17 +1,43 @@
-// function passing in liscense as an arg
-// validate lisense exists
-// return ![GitHub license](https://img.shields.io/badge/license- ROUTE HERE -blue.svg)
+// function to generate markdown for README.md
+function generateMarkdown(markdown) {
+  return `# ${markdown.title}
 
+  ## Description 
 
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
-  ${data.gitub}
+  ${markdown.description}
 
-  ## Project Name
+  ## Table of Contents 
+  
+  * [Installation: ${markdown.installation}](#installation)
+  * [Usage: ${markdown.usage}](#usage)
+  * [Credits: ${markdown.credits}](#credits)
+  * [License: ${markdown.license}](#license)
 
-  ${data.projectName}
-`;
+  ## Installation 
+
+  ${markdown.install}
+
+  ## Usage 
+
+  ${markdown.usage}
+  
+  ## Credits 
+
+  ${markdown.credits}
+  List your collaborators, if any, with links to their GitHub profiles.
+
+  If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+  
+  If you followed tutorials, include links to those here as well.
+
+  ## License
+  ${markdown.license}
+
+  ---
+
+  ## Badges
+  [![Generic badge](https://img.shields.io/badge/${markdown.language}-${markdown.length}-${markdown.color}.svg)]
+  `
 }
 
 module.exports = generateMarkdown;
