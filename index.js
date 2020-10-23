@@ -49,7 +49,7 @@ const questions = [
 {
     type: "input",
     name: "length",
-    message: "And also let us know how long you have been working with that programming language?"
+    message: "And also let us know how long you have been working with that programming language (e.g. oneYear)?"
 },
 {
     type: "checkbox",

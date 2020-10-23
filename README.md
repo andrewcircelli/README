@@ -1,27 +1,27 @@
-# The New Google
+# The New GOOGLE
 
   ## Description 
 
-  The New Google Description
+  DECRIPTION OF THE PRJ
 
   ## Table of Contents 
   
-  * [undefined](#installation)
-  * [Search Engine and Mapping tool](#usage)
-  * [Google and Apple](#credits)
-  * [MIT](#license)
+  * [Installation: undefined](#installation)
+  * [Usage: Instructions would go here](#usage)
+  * [Credits: GOogle and APple](#credits)
+  * [License: MIT](#license)
 
   ## Installation 
 
-  There are many steps to create a new search engine. 
+  1. Step1 2. Step2 
 
   ## Usage 
 
-  Search Engine and Mapping tool
+  Instructions would go here
   
   ## Credits 
 
-  Google and Apple
+  GOogle and APple
   List your collaborators, if any, with links to their GitHub profiles.
 
   If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
@@ -34,5 +34,6 @@
   ---
 
   ## Badges
-  [![Generic badge](https://img.shields.io/badge/Java-1 year -blue.svg)]
+  [![Generic badge](https://img.shields.io/badge/Java-oneYear-blue.svg)]
+  
   

@@ -8,10 +8,10 @@ function generateMarkdown(markdown) {
 
   ## Table of Contents 
   
-  * [Installation: ${markdown.installation}](#installation)
-  * [Usage: ${markdown.usage}](#usage)
-  * [Credits: ${markdown.credits}](#credits)
-  * [License: ${markdown.license}](#license)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
 
   ## Installation 
 
@@ -37,6 +37,7 @@ function generateMarkdown(markdown) {
 
   ## Badges
   [![Generic badge](https://img.shields.io/badge/${markdown.language}-${markdown.length}-${markdown.color}.svg)]
+
   `
 }
 
