@@ -1,32 +1,27 @@
-# The New GOOGLE
+# project1
 
   ## Description 
 
-  DECRIPTION OF THE PRJ
+  project1 description
 
   ## Table of Contents 
   
-  * [Installation: undefined](#installation)
-  * [Usage: Instructions would go here](#usage)
-  * [Credits: GOogle and APple](#credits)
-  * [License: MIT](#license)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
 
   ## Installation 
 
-  1. Step1 2. Step2 
+  do this and then that
 
   ## Usage 
 
-  Instructions would go here
+  examples 
   
   ## Credits 
 
-  GOogle and APple
-  List your collaborators, if any, with links to their GitHub profiles.
-
-  If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-  
-  If you followed tutorials, include links to those here as well.
+  google and apple
 
   ## License
   MIT
@@ -34,6 +29,6 @@
   ---
 
   ## Badges
-  [![Generic badge](https://img.shields.io/badge/Java-oneYear-blue.svg)]
-  
+  [![Generic badge](https://img.shields.io/badge/java-oneyear-blue.svg)]
+
   
