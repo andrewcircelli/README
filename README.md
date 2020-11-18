@@ -22,4 +22,4 @@ https://github.com/ac08/README
 
 ## Screenshot of the application at work
 
-<img src="assets/README.png" alt="README">
+<img src="assets/imgs/README.png" alt="README">
